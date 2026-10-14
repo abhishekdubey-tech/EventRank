@@ -1,0 +1,3 @@
+# EventRank Core Backend requires zero third-party dependencies.
+# Uses Python standard library only (csv, datetime, unittest).
+# Requires Python >= 3.8
